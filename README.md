@@ -12,10 +12,10 @@ Users should be able to:
 ### Screenshot
 
 -  Desktop View
-   ![](images/Desktop_View.jpeg)
+![](images/Desktop_View.jpeg)
 
 -  Mobile View
-   ![](images/Mobile_View.jpeg)
+![](images/Mobile_View.jpeg)
 
 ### Links
 
