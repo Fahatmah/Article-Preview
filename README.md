@@ -12,14 +12,14 @@ Users should be able to:
 ### Screenshot
 
 -  Desktop View
-   ![](images/Desktop_View.jpeg)
+![](images/Desktop_View.jpeg)
 
 -  Mobile View
-   ![](images/Mobile_View.jpeg)
+![](images/Mobile_View.jpeg)
 
 ### Links
 
--  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  Live Site URL: [Article Preview](https://article-preview-frontend.netlify.app/)
 
 ### Built with
 
